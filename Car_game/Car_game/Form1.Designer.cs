@@ -157,29 +157,29 @@ namespace Car_game
             // 
             // inamic1
             // 
-            this.inamic1.Image = global::Car_game.Properties.Resources.inamic_premium;
-            this.inamic1.Location = new System.Drawing.Point(28, 39);
+            this.inamic1.Image = ((System.Drawing.Image)(resources.GetObject("inamic1.Image")));
+            this.inamic1.Location = new System.Drawing.Point(39, 63);
             this.inamic1.Name = "inamic1";
-            this.inamic1.Size = new System.Drawing.Size(71, 66);
+            this.inamic1.Size = new System.Drawing.Size(48, 107);
             this.inamic1.TabIndex = 9;
             this.inamic1.TabStop = false;
             this.inamic1.Click += new System.EventHandler(this.inamic1_Click);
             // 
             // inamic3
             // 
-            this.inamic3.Image = global::Car_game.Properties.Resources.inamic_premium;
-            this.inamic3.Location = new System.Drawing.Point(245, 104);
+            this.inamic3.Image = ((System.Drawing.Image)(resources.GetObject("inamic3.Image")));
+            this.inamic3.Location = new System.Drawing.Point(256, 39);
             this.inamic3.Name = "inamic3";
-            this.inamic3.Size = new System.Drawing.Size(71, 66);
+            this.inamic3.Size = new System.Drawing.Size(50, 131);
             this.inamic3.TabIndex = 10;
             this.inamic3.TabStop = false;
             // 
             // inamic2
             // 
-            this.inamic2.Image = global::Car_game.Properties.Resources.inamic_premium;
-            this.inamic2.Location = new System.Drawing.Point(336, 39);
+            this.inamic2.Image = ((System.Drawing.Image)(resources.GetObject("inamic2.Image")));
+            this.inamic2.Location = new System.Drawing.Point(383, 122);
             this.inamic2.Name = "inamic2";
-            this.inamic2.Size = new System.Drawing.Size(71, 66);
+            this.inamic2.Size = new System.Drawing.Size(44, 108);
             this.inamic2.TabIndex = 11;
             this.inamic2.TabStop = false;
             // 
