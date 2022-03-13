@@ -218,5 +218,9 @@ namespace Car_game
 
         }
 
+        private void inamic1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

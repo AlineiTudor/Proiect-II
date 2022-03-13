@@ -163,6 +163,7 @@ namespace Car_game
             this.inamic1.Size = new System.Drawing.Size(71, 66);
             this.inamic1.TabIndex = 9;
             this.inamic1.TabStop = false;
+            this.inamic1.Click += new System.EventHandler(this.inamic1_Click);
             // 
             // inamic3
             // 

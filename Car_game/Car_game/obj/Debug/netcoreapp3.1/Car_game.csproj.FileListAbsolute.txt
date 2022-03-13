@@ -15,3 +15,20 @@ D:\Facultate\An3\sem2\Informatica industriala\Proiect\Car_game\Car_game\obj\Debu
 D:\Facultate\An3\sem2\Informatica industriala\Proiect\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.pdb
 D:\Facultate\An3\sem2\Informatica industriala\Proiect\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.genruntimeconfig.cache
 D:\Facultate\An3\sem2\Informatica industriala\Proiect\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.Properties.Resources.resources
+C:\Users\40753\Desktop\II\Car_game\Car_game\bin\Debug\netcoreapp3.1\Car_game.exe
+C:\Users\40753\Desktop\II\Car_game\Car_game\bin\Debug\netcoreapp3.1\Car_game.deps.json
+C:\Users\40753\Desktop\II\Car_game\Car_game\bin\Debug\netcoreapp3.1\Car_game.runtimeconfig.json
+C:\Users\40753\Desktop\II\Car_game\Car_game\bin\Debug\netcoreapp3.1\Car_game.runtimeconfig.dev.json
+C:\Users\40753\Desktop\II\Car_game\Car_game\bin\Debug\netcoreapp3.1\Car_game.dll
+C:\Users\40753\Desktop\II\Car_game\Car_game\bin\Debug\netcoreapp3.1\Car_game.pdb
+C:\Users\40753\Desktop\II\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.csproj.AssemblyReference.cache
+C:\Users\40753\Desktop\II\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.Form1.resources
+C:\Users\40753\Desktop\II\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.Properties.Resources.resources
+C:\Users\40753\Desktop\II\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.csproj.GenerateResource.cache
+C:\Users\40753\Desktop\II\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40753\Desktop\II\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.AssemblyInfoInputs.cache
+C:\Users\40753\Desktop\II\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.AssemblyInfo.cs
+C:\Users\40753\Desktop\II\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.csproj.CoreCompileInputs.cache
+C:\Users\40753\Desktop\II\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.dll
+C:\Users\40753\Desktop\II\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.pdb
+C:\Users\40753\Desktop\II\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.genruntimeconfig.cache
