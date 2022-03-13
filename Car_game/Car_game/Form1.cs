@@ -180,7 +180,7 @@ namespace Car_game
                 banut1.Top = -banut1.Height;
                 poz_banut = r.Next(pictureBox6.Width / 2, ClientRectangle.Width - pictureBox7.Width / 2 - banut1.Width);
                 banut1.Left = poz_banut;
-                banutiColectati++;
+                banutiColectati += 50;
                 scor.Text = "Banuti: " + banutiColectati.ToString();
             }
             if (masina.Bounds.IntersectsWith(banut2.Bounds))
@@ -188,7 +188,7 @@ namespace Car_game
                 banut2.Top = -banut2.Height;
                 poz_banut = r.Next(pictureBox6.Width / 2, ClientRectangle.Width - pictureBox7.Width / 2 - banut2.Width);
                 banut2.Left = poz_banut;
-                banutiColectati++;
+                banutiColectati += 10;
                 scor.Text = "Banuti: " + banutiColectati.ToString();
             }
             if (masina.Bounds.IntersectsWith(banut3.Bounds))
@@ -196,7 +196,7 @@ namespace Car_game
                 banut3.Top = -banut3.Height;
                 poz_banut = r.Next(pictureBox6.Width / 2, ClientRectangle.Width - pictureBox7.Width / 2 - banut3.Width);
                 banut3.Left = poz_banut;
-                banutiColectati++;
+                banutiColectati += 50;
                 scor.Text = "Banuti: " + banutiColectati.ToString();
             }
             if (masina.Bounds.IntersectsWith(banut4.Bounds))
@@ -204,7 +204,7 @@ namespace Car_game
                 banut4.Top = -banut4.Height;
                 poz_banut = r.Next(pictureBox6.Width / 2, ClientRectangle.Width - pictureBox7.Width / 2 - banut4.Width);
                 banut4.Left = poz_banut;
-                banutiColectati++;
+                banutiColectati += 10;
                 scor.Text = "Banuti: " + banutiColectati.ToString();
             }
             if (masina.Bounds.IntersectsWith(banut5.Bounds))
@@ -212,7 +212,7 @@ namespace Car_game
                 banut5.Top = -banut5.Height;
                 poz_banut = r.Next(pictureBox6.Width / 2, ClientRectangle.Width - pictureBox7.Width / 2 - banut5.Width);
                 banut5.Left = poz_banut;
-                banutiColectati++;
+                banutiColectati += 50;
                 scor.Text = "Banuti: " + banutiColectati.ToString();
             }
 

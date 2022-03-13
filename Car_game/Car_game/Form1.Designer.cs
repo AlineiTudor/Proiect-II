@@ -148,9 +148,9 @@ namespace Car_game
             // masina
             // 
             this.masina.Image = ((System.Drawing.Image)(resources.GetObject("masina.Image")));
-            this.masina.Location = new System.Drawing.Point(149, 377);
+            this.masina.Location = new System.Drawing.Point(138, 440);
             this.masina.Name = "masina";
-            this.masina.Size = new System.Drawing.Size(65, 62);
+            this.masina.Size = new System.Drawing.Size(49, 101);
             this.masina.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.masina.TabIndex = 8;
             this.masina.TabStop = false;
@@ -197,17 +197,17 @@ namespace Car_game
             // 
             // banut1
             // 
-            this.banut1.Image = global::Car_game.Properties.Resources.Banut;
+            this.banut1.Image = ((System.Drawing.Image)(resources.GetObject("banut1.Image")));
             this.banut1.Location = new System.Drawing.Point(75, 277);
             this.banut1.Name = "banut1";
-            this.banut1.Size = new System.Drawing.Size(46, 46);
+            this.banut1.Size = new System.Drawing.Size(55, 55);
             this.banut1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.banut1.TabIndex = 13;
             this.banut1.TabStop = false;
             // 
             // banut4
             // 
-            this.banut4.Image = global::Car_game.Properties.Resources.Banut;
+            this.banut4.Image = ((System.Drawing.Image)(resources.GetObject("banut4.Image")));
             this.banut4.Location = new System.Drawing.Point(218, 253);
             this.banut4.Name = "banut4";
             this.banut4.Size = new System.Drawing.Size(46, 46);
@@ -217,27 +217,27 @@ namespace Car_game
             // 
             // banut5
             // 
-            this.banut5.Image = global::Car_game.Properties.Resources.Banut;
+            this.banut5.Image = ((System.Drawing.Image)(resources.GetObject("banut5.Image")));
             this.banut5.Location = new System.Drawing.Point(320, 277);
             this.banut5.Name = "banut5";
-            this.banut5.Size = new System.Drawing.Size(46, 46);
+            this.banut5.Size = new System.Drawing.Size(55, 55);
             this.banut5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.banut5.TabIndex = 15;
             this.banut5.TabStop = false;
             // 
             // banut3
             // 
-            this.banut3.Image = global::Car_game.Properties.Resources.Banut;
+            this.banut3.Image = ((System.Drawing.Image)(resources.GetObject("banut3.Image")));
             this.banut3.Location = new System.Drawing.Point(132, 104);
             this.banut3.Name = "banut3";
-            this.banut3.Size = new System.Drawing.Size(46, 46);
+            this.banut3.Size = new System.Drawing.Size(55, 55);
             this.banut3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.banut3.TabIndex = 16;
             this.banut3.TabStop = false;
             // 
             // banut2
             // 
-            this.banut2.Image = global::Car_game.Properties.Resources.Banut;
+            this.banut2.Image = ((System.Drawing.Image)(resources.GetObject("banut2.Image")));
             this.banut2.Location = new System.Drawing.Point(95, 185);
             this.banut2.Name = "banut2";
             this.banut2.Size = new System.Drawing.Size(46, 46);
