@@ -251,7 +251,9 @@ namespace Car_game
 
         private void button2_Click(object sender, EventArgs e)
         {
-            exitGame();
+            var form2 = new Form2();
+            form2.Show();
+            this.Hide();
         }
 
         private void Form1_FormClosed(object sender, FormClosedEventArgs e)

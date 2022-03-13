@@ -49,3 +49,4 @@ C:\Users\kovex\OneDrive - Technical University of Cluj-Napoca\AN 3 2021-2022\Sem
 C:\Users\kovex\OneDrive - Technical University of Cluj-Napoca\AN 3 2021-2022\Semestrul 2\ii\Proiect\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.dll
 C:\Users\kovex\OneDrive - Technical University of Cluj-Napoca\AN 3 2021-2022\Semestrul 2\ii\Proiect\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.pdb
 C:\Users\kovex\OneDrive - Technical University of Cluj-Napoca\AN 3 2021-2022\Semestrul 2\ii\Proiect\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.genruntimeconfig.cache
+C:\Users\kovex\OneDrive - Technical University of Cluj-Napoca\AN 3 2021-2022\Semestrul 2\ii\Proiect\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.Form2.resources
