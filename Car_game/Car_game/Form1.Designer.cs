@@ -50,6 +50,8 @@ namespace Car_game
             this.banut3 = new System.Windows.Forms.PictureBox();
             this.banut2 = new System.Windows.Forms.PictureBox();
             this.scor = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -256,12 +258,36 @@ namespace Car_game
             this.scor.TabIndex = 18;
             this.scor.Text = "Banuti: 0";
             // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.Yellow;
+            this.button1.Location = new System.Drawing.Point(138, 237);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(196, 34);
+            this.button1.TabIndex = 19;
+            this.button1.Text = "Restart";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.Yellow;
+            this.button2.Location = new System.Drawing.Point(138, 277);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(196, 32);
+            this.button2.TabIndex = 20;
+            this.button2.Text = "Exit Game";
+            this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkGray;
-            this.ClientSize = new System.Drawing.Size(482, 553);
+            this.ClientSize = new System.Drawing.Size(478, 549);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.scor);
             this.Controls.Add(this.banut2);
             this.Controls.Add(this.banut3);
@@ -280,8 +306,13 @@ namespace Car_game
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.pictureBox2);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(500, 600);
+            this.MinimumSize = new System.Drawing.Size(500, 600);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Drift Club Valcea";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
@@ -326,6 +357,8 @@ namespace Car_game
         private System.Windows.Forms.PictureBox banut3;
         private System.Windows.Forms.PictureBox banut2;
         private System.Windows.Forms.Label scor;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
     }
 }
 
