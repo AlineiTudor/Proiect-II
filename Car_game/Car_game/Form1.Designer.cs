@@ -50,6 +50,7 @@ namespace Car_game
             this.banut3 = new System.Windows.Forms.PictureBox();
             this.banut2 = new System.Windows.Forms.PictureBox();
             this.scor = new System.Windows.Forms.Label();
+            this.closeButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -256,12 +257,24 @@ namespace Car_game
             this.scor.TabIndex = 18;
             this.scor.Text = "Banuti: 0";
             // 
+            // closeButton
+            // 
+            this.closeButton.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.closeButton.Location = new System.Drawing.Point(160, 253);
+            this.closeButton.Name = "closeButton";
+            this.closeButton.Size = new System.Drawing.Size(154, 46);
+            this.closeButton.TabIndex = 19;
+            this.closeButton.Text = "Close";
+            this.closeButton.UseVisualStyleBackColor = true;
+            this.closeButton.Click += new System.EventHandler(this.closeButton_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkGray;
             this.ClientSize = new System.Drawing.Size(482, 553);
+            this.Controls.Add(this.closeButton);
             this.Controls.Add(this.scor);
             this.Controls.Add(this.banut2);
             this.Controls.Add(this.banut3);
@@ -326,6 +339,7 @@ namespace Car_game
         private System.Windows.Forms.PictureBox banut3;
         private System.Windows.Forms.PictureBox banut2;
         private System.Windows.Forms.Label scor;
+        private System.Windows.Forms.Button closeButton;
     }
 }
 

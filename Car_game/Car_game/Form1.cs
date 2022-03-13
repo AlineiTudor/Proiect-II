@@ -18,6 +18,7 @@ namespace Car_game
         {
             InitializeComponent();
             gameOver.Visible = false;
+            closeButton.Visible = false;
         }
 
         private void Form1_Load(object sender, EventArgs e){}
@@ -119,16 +120,19 @@ namespace Car_game
             if (masina.Bounds.IntersectsWith(inamic1.Bounds))
             {
                 timer1.Enabled = false;
+                closeButton.Visible = true;
                 gameOver.Visible = true;
             }
             if (masina.Bounds.IntersectsWith(inamic2.Bounds))
             {
                 timer1.Enabled = false;
+                closeButton.Visible = true;
                 gameOver.Visible = true;
             }
             if (masina.Bounds.IntersectsWith(inamic3.Bounds))
             {
                 timer1.Enabled = false;
+                closeButton.Visible = true;
                 gameOver.Visible = true;
             }
         }
@@ -221,6 +225,11 @@ namespace Car_game
         private void inamic1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void closeButton_Click(object sender, EventArgs e)
+        {
+            this.Dispose();
         }
     }
 }

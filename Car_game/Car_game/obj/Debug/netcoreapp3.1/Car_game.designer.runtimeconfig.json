@@ -6,8 +6,8 @@
       "version": "3.1.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\kovex\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\kovex\\.nuget\\packages",
+      "C:\\Users\\tudor\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tudor\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
