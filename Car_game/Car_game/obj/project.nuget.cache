@@ -1,8 +1,20 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "wur58UthVfuFJAGUzeiNjhKubEgkUVPA/TP6UKdfjNfa9kFwuRwOJQRotcDlLWwXmqZExgZuGcKYglzTCjBy3g==",
   "success": true,
   "projectFilePath": "C:\\Users\\40753\\Desktop\\II\\Car_game\\Car_game\\Car_game.csproj",
   "expectedPackageFiles": [],
+=======
+  "dgSpecHash": "F7Wr+VA5RWqsBNkTRXM5s1KpFHvcikhdhTY2ccgIfZ3u5Jg9jJ0P5AJCDSN2H85ZkmDGqgjH/kO/ovKBL+wbrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kovex\\OneDrive - Technical University of Cluj-Napoca\\AN 3 2021-2022\\Semestrul 2\\ii\\Proiect\\Car_game\\Car_game\\Car_game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kovex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
+    "C:\\Users\\kovex\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\kovex\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\kovex\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+>>>>>>> 641fac2b024c62108b3260bf2e78806bdf28a762
   "logs": []
 }
