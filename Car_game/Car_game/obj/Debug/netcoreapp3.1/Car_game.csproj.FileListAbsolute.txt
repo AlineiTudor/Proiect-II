@@ -49,6 +49,7 @@ C:\Users\kovex\OneDrive - Technical University of Cluj-Napoca\AN 3 2021-2022\Sem
 C:\Users\kovex\OneDrive - Technical University of Cluj-Napoca\AN 3 2021-2022\Semestrul 2\ii\Proiect\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.dll
 C:\Users\kovex\OneDrive - Technical University of Cluj-Napoca\AN 3 2021-2022\Semestrul 2\ii\Proiect\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.pdb
 C:\Users\kovex\OneDrive - Technical University of Cluj-Napoca\AN 3 2021-2022\Semestrul 2\ii\Proiect\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.genruntimeconfig.cache
+<<<<<<< HEAD
 D:\Facultate\An3\sem2\Informatica industriala\Proiect\Proiect-II\Car_game\Car_game\bin\Debug\netcoreapp3.1\Car_game.exe
 D:\Facultate\An3\sem2\Informatica industriala\Proiect\Proiect-II\Car_game\Car_game\bin\Debug\netcoreapp3.1\Car_game.deps.json
 D:\Facultate\An3\sem2\Informatica industriala\Proiect\Proiect-II\Car_game\Car_game\bin\Debug\netcoreapp3.1\Car_game.runtimeconfig.json
@@ -66,3 +67,6 @@ D:\Facultate\An3\sem2\Informatica industriala\Proiect\Proiect-II\Car_game\Car_ga
 D:\Facultate\An3\sem2\Informatica industriala\Proiect\Proiect-II\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.dll
 D:\Facultate\An3\sem2\Informatica industriala\Proiect\Proiect-II\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.pdb
 D:\Facultate\An3\sem2\Informatica industriala\Proiect\Proiect-II\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.genruntimeconfig.cache
+=======
+C:\Users\kovex\OneDrive - Technical University of Cluj-Napoca\AN 3 2021-2022\Semestrul 2\ii\Proiect\Car_game\Car_game\obj\Debug\netcoreapp3.1\Car_game.Form2.resources
+>>>>>>> 6e93c52b8b4133f951acba8599cd9bf1ef24bca5

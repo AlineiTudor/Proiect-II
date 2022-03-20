@@ -18,7 +18,12 @@ namespace Car_game
         {
             InitializeComponent();
             gameOver.Visible = false;
+<<<<<<< HEAD
             closeButton.Visible = false;
+=======
+            button1.Visible = false;
+            button2.Visible = false;
+>>>>>>> 6e93c52b8b4133f951acba8599cd9bf1ef24bca5
         }
 
         private void Form1_Load(object sender, EventArgs e){}
@@ -122,18 +127,24 @@ namespace Car_game
                 timer1.Enabled = false;
                 closeButton.Visible = true;
                 gameOver.Visible = true;
+                button1.Visible = true;
+                button2.Visible = true;
             }
             if (masina.Bounds.IntersectsWith(inamic2.Bounds))
             {
                 timer1.Enabled = false;
                 closeButton.Visible = true;
                 gameOver.Visible = true;
+                button1.Visible = true;
+                button2.Visible = true;
             }
             if (masina.Bounds.IntersectsWith(inamic3.Bounds))
             {
                 timer1.Enabled = false;
                 closeButton.Visible = true;
                 gameOver.Visible = true;
+                button1.Visible = true;
+                button2.Visible = true;
             }
         }
 
@@ -222,14 +233,45 @@ namespace Car_game
 
         }
 
+        void restartGame()
+        {
+            this.Hide();
+            var form2 = new Form1();
+            form2.Show();
+        }
+
+        void exitGame()
+        {
+            this.Close();
+            Application.Exit();
+        }
+
         private void inamic1_Click(object sender, EventArgs e)
         {
 
         }
 
+<<<<<<< HEAD
         private void closeButton_Click(object sender, EventArgs e)
         {
             this.Dispose();
+=======
+        private void button1_Click(object sender, EventArgs e)
+        {
+            restartGame();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            var form2 = new Form2();
+            form2.Show();
+            this.Hide();
+        }
+
+        private void Form1_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+>>>>>>> 6e93c52b8b4133f951acba8599cd9bf1ef24bca5
         }
     }
 }

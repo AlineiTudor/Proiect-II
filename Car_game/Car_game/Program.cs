@@ -17,7 +17,11 @@ namespace Car_game
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+<<<<<<< HEAD
             Application.Run(new MeniuPrincipal());
+=======
+            Application.Run(new Form2());
+>>>>>>> 6e93c52b8b4133f951acba8599cd9bf1ef24bca5
         }
     }
 }
