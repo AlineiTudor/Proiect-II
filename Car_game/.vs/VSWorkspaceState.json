@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Car_game",
+    "\\Car_Game.UnitTest",
+    "\\Car_Game.UnitTest\\bin",
+    "\\Car_Game.UnitTest\\obj",
+    "\\Car_Game.UnitTest\\Properties",
+    "\\Car_game\\bin",
+    "\\Car_game\\obj",
+    "\\Car_game\\Properties",
+    "\\Car_game\\Resources"
+  ],
+  "SelectedNode": "\\Car_game\\Form1.cs",
+  "PreviewInSolutionExplorer": false
+}

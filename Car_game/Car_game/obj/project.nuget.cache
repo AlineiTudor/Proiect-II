@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vJoF5OwGaG7SRRjW+Ge2FrniOTfYiRsNze5UY6izbBsL2qobAryEZI851qgI6pgVrz+bwrlv1KdaxbQXopRPYw==",
+  "dgSpecHash": "wur58UthVfuFJAGUzeiNjhKubEgkUVPA/TP6UKdfjNfa9kFwuRwOJQRotcDlLWwXmqZExgZuGcKYglzTCjBy3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kovex\\OneDrive - Technical University of Cluj-Napoca\\AN 3 2021-2022\\Semestrul 2\\ii\\Proiect\\Car_game\\Car_game\\Car_game.csproj",
+  "projectFilePath": "C:\\Users\\40753\\Desktop\\II\\Car_game\\Car_game\\Car_game.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\kovex\\OneDrive - Technical University of Cluj-Napoca\\AN 3 2021-2022\\Semestrul 2\\ii\\Proiect\\Car_game\\Car_game\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
